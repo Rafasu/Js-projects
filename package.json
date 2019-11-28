@@ -1,0 +1,23 @@
+{
+  "name": "js-practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start  --server --files '**/**.css, **/*-html, **/*.js' --directory --port 7777 --browser 'FirefoxDeveloperEdition'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafasu/js-practices.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rafasu/js-practices/issues"
+  },
+  "homepage": "https://github.com/Rafasu/js-practices#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
