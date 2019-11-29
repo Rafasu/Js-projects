@@ -3,7 +3,7 @@
 This repository contains many practices or little projects that I made to practice JavaScript.
 
 ## Instructions
-If you want to run all the projects in your local computer, just clone the repository and run npm install to get all the dependencies. After that run npm start to run the script that will allow you to run each project in (http://localhost:7777/)[http://localhost:7777/]
+If you want to run all the projects in your local computer, just clone the repository and run npm install to get all the dependencies. After that run npm start to run the script that will allow you to run each project in (localHost)[http://localhost:7777/]
 
 ## Projects
  
