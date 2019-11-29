@@ -7,5 +7,4 @@ This repository contains many practices or little projects that I made to practi
 ## Projects
  
 * Clock
-* Analog-clock: A Watchmen inspired analog clock made with html, css and js.
-[Link](https://watchmen-analog-clock.rafasu.repl.co/)
+* [Analog-Clock](https://watchmen-analog-clock.rafasu.repl.co/): A Watchmen inspired analog clock.
