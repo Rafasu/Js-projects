@@ -11,4 +11,4 @@ You can just watch the projects by clicking the link of the project.
  
 * [Clock](https://clock.rafasu.repl.co/): A simple minimalist clock.
 * [Analog-Clock](https://watchmen-analog-clock.rafasu.repl.co/): A Watchmen inspired analog clock.
-* [Tweeter](https://tweeter--rafasu.repl.co/): A Local Storage microblogging.
+* [Tweeter](https://tweeter--rafasu.repl.co/): A Local Storage Twitter.
