@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#calendar-container{
+     display: grid;
+     grid-template-columns: repeat(7, 1fr);
+     grid-template-rows: repeat(5, 1fr);
+     height: 100vh;
+}
+
+.name{
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.day{
+    border-bottom: 1px solid lightgray;
+    cursor: pointer;
+    text-align: center;
+    font-size: 12px;
+    border-right: 1px solid lightgray;
+    padding-top: 5px;
+    transition: background-color 200ms, color 200ms;
+}
+
+.weekend{
+    color: cornflowerblue;
+}
+
+.selected{
+    background-color: cornflowerblue;
+    color: white;
+}
